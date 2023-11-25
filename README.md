@@ -1,0 +1,1 @@
+# laravel-inertia-vue-shadcn-tanstack_table
